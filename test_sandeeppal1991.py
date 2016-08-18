@@ -107,6 +107,7 @@ def various_solutions():
     f11_args = [1, "2", 3.0, '4', 5.0, 6]  # Last lines in various_solutions()
     for arg in f11_args:
         f11(arg)
+
     f12()
 
 
